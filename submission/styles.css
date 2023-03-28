@@ -1,0 +1,11 @@
+table,th,td{
+    border:1px solid black;
+}
+.dark{
+    background-color: black;
+    color:white;
+}
+.red{
+    background-color: red;
+    color:white;
+}
